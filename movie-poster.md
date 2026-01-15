@@ -89,19 +89,19 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**  generate a wide shot movie poster for the first Jurassic World movie. Feature the indominous rex in the background camoflaged in the forest leaves. Completely camoflage its body and leave half it's face visible, yet hidden in leaves. Do not just cover it in a blanket of leaves. Make it so the background is a forest, and the indominous rex's face is half visible through the wall made by the forest. Make sure its red eyes stick out. Avoid bright colors and keep green as the dominant color with black and brown accent colors. Make the overall mood dark and ominous.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  it displayed the dinosaur well.
+- **What didn't work:**  Camouflaging the dinosaur in a wall of leaves.
+- **What I'll change for next attempt:**  change the direction the dinosaur is facing.
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**  generate a wide shot movie poster for the first Jurassic World movie. Feature the indominous rex in the background camouflaged in the forest leaves. Completely camouflage its body and leave half it's face visible, yet hidden in leaves. Do not just cover it in a blanket of leaves. Make it so the background is a forest, and the indominous rex's face is half visible through the wall made by the forest. Make sure his head it facing the right. Don't show his snout, only the area around his eyes. Make sure its red eyes stick out. Avoid bright colors and keep green as the dominant color with black and brown accent colors. Make the overall mood dark and ominous.
 
-- **What worked:**  
+- **What worked:**  keeping the dominant colors right and keeping an ominous mood
 - **What didn't work:**  
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?)  attempt 4 because it was the most ominous.
 
 ---
 
