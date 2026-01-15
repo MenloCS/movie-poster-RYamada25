@@ -48,7 +48,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 
 **Color Palette:**  
 - **Dominant color(s):**  Green
-- **Accent color(s):**  black
+- **Accent color(s):**  black, brown
 - **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  dark
 
 **Composition:**  
@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**  a wide shot movie poster for the first Jurassic World movie. Feature the indominous rex in the background half camouflaged in the forest leaves. Avoid bright colors and keep green as the dominant color with black and brown accent colors. Make the overall mood dark and ominous.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  avoiding bright colors and having an overall dark mood.
+- **What didn't work:**  Camouflaging the dinosaur.
+- **What I'll change for next attempt:**  Make the dinosaur more camouflaged.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  generate a wide shot movie poster for the first Jurassic World movie. Feature the indominous rex in the background camouflaged in the forest leaves. Completely camouflage its body and leave half it's face visible, yet hidden in leaves. Make sure its red eyes stick out. Avoid bright colors and keep green as the dominant color with black and brown accent colors. Make the overall mood dark and ominous.
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  Having a more ominous mood.
+- **What didn't work:**  Camouflaging the dinosaur in the way I intended it to.
+- **What I'll change for next attempt:**  Change the way the dinosaur is shrouded in the forest.
 
 ---
 
