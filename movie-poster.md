@@ -30,35 +30,35 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  Jurassic World
+- **Why I chose this movie:**  I recently watched the newest movie, but I still liked the first one in the series more.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  Ominous
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  Indominous rex camouflaged 
+- **Why this element:**  It is the primary antagonist that is hinted at throughout the film until the protagonists encounter it.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:**  Bright colors
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  Green
+- **Accent color(s):**  black
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  dark
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [x] Wide shot (landscape/setting)  
 - [ ] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description:**  camouflaged indominous rex
 
 ---
 
